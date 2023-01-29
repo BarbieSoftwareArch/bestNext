@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/movie_review_htmls/js"
+		},
+		{
+			"path": "../../../Downloads/movie_review_htmls/sass"
+		},
+		{
+			"path": "../../../Downloads/movie_review_htmls/images"
+		},
+		{
+			"path": "../../../Downloads/movie_review_htmls/fonts"
+		},
+		{
+			"path": "../../../Downloads/movie_review_htmls/dummy"
+		}
+	],
+	"settings": {}
+}
