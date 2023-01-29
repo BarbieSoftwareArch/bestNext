@@ -8225,7 +8225,7 @@ h1, h2, h3, h4, h5,
 .form-control {
   background: transparent;
   border: none;
-  height: 50px;
+  height: relative;
   color: white !important;
   border: 1px solid transparent;
   background: rgba(255, 255, 255, 0.08);
